@@ -1,2 +1,2 @@
-# 🙏🏽 Maria Reyes | Software Developer • Game Creator 
+# Maria Reyes | Software Developer
 
