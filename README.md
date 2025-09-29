@@ -45,4 +45,5 @@ Designed to make **data exploration accessible for non-technical users**, combin
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/maria-reyes-64aaa7223/)  
+- [LinkedIn](https://www.linkedin.com/in/maria-reyes-64aaa7223/)
+- [Portfolio](https://mereyes.netlify.app/)
