@@ -39,7 +39,6 @@ Designed to make **data exploration accessible for non-technical users**, combin
 ---
 
 ## GitHub Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-Reyes07&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Reyes07&layout=compact&theme=tokyonight)
 
