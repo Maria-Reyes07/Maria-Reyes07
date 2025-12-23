@@ -3,15 +3,15 @@
 - Currently building **T.R.U.S.T.**, a psychological thriller game in Unreal Engine 5.5  
 - Expanding my skills in **Javascript, Python, React, and Unreal Engine**  
 - Participated in multiple **hackathons** to build creative, impactful projects  
-- Outside of coding: I love reading books, painting, and line dancing
+- Outside of coding: I love crocheting, reading books, painting, and line dancing
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript/TypeScript  
-- **Game Dev:** Unreal Engine 5  
-- **Web:** React, Next.js, Tailwind CSS 
-- **Other Tools:** Git, Figma
+- **Game Dev:** Unreal Engine 5, Godot
+- **Web:** React, Next.js, Tailwind CSS, Angular
+- **Other Tools:** Git, GitLab, GitHub, Figma
 
 ---
 
